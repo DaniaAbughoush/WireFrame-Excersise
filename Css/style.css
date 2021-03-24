@@ -1,5 +1,8 @@
 body{
-    width:100%
+   text-align: justify;
+  
+ margin:100px;
+
 }
 ul{
     margin:5px;
@@ -61,4 +64,5 @@ footer  {
 background-color: #DDD;
 width:1000px;
 height:100px;
+
 }
